@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benja and i am 24.
 - 👀 I’m interested in software development, web development, cybersecurity, artifitial intelligence and others.
 - 🌱 I’m currently trying to improve my skills solving problems and creating solutions.
-- 💞️ I’m looking to collaborate with everyone who wants, im an open book.
+- 🤝🏽 I’m looking to collaborate with everyone who wants, im an open book.
 - 📫 How to reach me: benjaminghv@gmail.com.
 
 <!---
